@@ -20,9 +20,6 @@
 * Blazing fast calculation powered by lazy-loaded WebAssembly :zap:
 * Special [keyboard support](#keyboard-support).
 
-## Install
-
-Check out [**the latest release**](https://github.com/elcalc/elcalc/releases/latest).
 
 ---
 
